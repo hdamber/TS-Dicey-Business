@@ -1,0 +1,21 @@
+{
+  "name": "dicey-business",
+  "version": "1.0.0",
+  "description": "Dicey Business Covalence",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.33",
+    "ts-loader": "^6.2.2",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  }
+}
